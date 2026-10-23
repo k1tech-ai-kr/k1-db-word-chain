@@ -1,0 +1,130 @@
+{
+  "id": "k1-db-word-chain",
+  "title": "끝말잇기 사전 명사 20만",
+  "description": "표준국어대사전 명사 208,358개(한글 두 글자 이상, 첫 글자 자음별 19조각) — 끝말잇기 인정 사전.",
+  "version": "1.0.0",
+  "built": "2026-10-23T20:37:02.567Z",
+  "apps": [
+    "word-chain"
+  ],
+  "licenses": [
+    "국립국어원 표준국어대사전·한국어기초사전 — CC BY-SA 2.0 KR (출처: 국립국어원, 변경: 표제어 정규화·필터·형식 변환)"
+  ],
+  "tier": "free",
+  "files": [
+    {
+      "path": "data/가.json",
+      "bytes": 350234,
+      "sha256": "3dfdb9d169bc76d1e4255f7c70c1c91a856c7793138d32c1106f3753b4dc1e0c",
+      "app": true
+    },
+    {
+      "path": "data/까.json",
+      "bytes": 17201,
+      "sha256": "5d056092dc6ac929d8faae7a73f25205f5a2eb55eba89002f095117f6df807ab",
+      "app": true
+    },
+    {
+      "path": "data/나.json",
+      "bytes": 101390,
+      "sha256": "ae04eae1bc4f9046a5e41e41cb735a7de1c91bd0355124d599c4ad5d8bc52be7",
+      "app": true
+    },
+    {
+      "path": "data/다.json",
+      "bytes": 157001,
+      "sha256": "4c92854dd8cad2f8cfdb24b5f9f93a22c12ea2b8248e88a35a23152760940bba",
+      "app": true
+    },
+    {
+      "path": "data/따.json",
+      "bytes": 10955,
+      "sha256": "3cad14dc1304d9ec49339bdf945965d827f2269e8033b2041934e14f9a9b8cc5",
+      "app": true
+    },
+    {
+      "path": "data/라.json",
+      "bytes": 22691,
+      "sha256": "d83ef171213f0e894361593f614e3962a3f9236b7b6598c5c97c5b5fa7de53a4",
+      "app": true
+    },
+    {
+      "path": "data/마.json",
+      "bytes": 167696,
+      "sha256": "69d8d295fa58fa52b517cbe8e90c5a80b81e0b98e0626bbdff6b7a810f0c269c",
+      "app": true
+    },
+    {
+      "path": "data/바.json",
+      "bytes": 227513,
+      "sha256": "659fe8202b95868504ace5770f3c2744fb231f82ddce39ef71acda97b97baa6f",
+      "app": true
+    },
+    {
+      "path": "data/빠.json",
+      "bytes": 4712,
+      "sha256": "a256b852637ca21a6908ce27caf66b0ac239ac260ab7aa4f8a9f2713c6dd28cf",
+      "app": true
+    },
+    {
+      "path": "data/사.json",
+      "bytes": 319070,
+      "sha256": "a82a9a3c5116b1b5b17e050f87533f11a40b4b2a120385312dfa96d24c67bb68",
+      "app": true
+    },
+    {
+      "path": "data/싸.json",
+      "bytes": 11402,
+      "sha256": "16a7896fc8455da8d4f280edfee54b678ae064f304acbac7d10f2f0734807d37",
+      "app": true
+    },
+    {
+      "path": "data/아.json",
+      "bytes": 425852,
+      "sha256": "f8d279bf623d5be956ddb91b15e92716030f98f0fed3c21b979c649327c29fde",
+      "app": true
+    },
+    {
+      "path": "data/자.json",
+      "bytes": 260792,
+      "sha256": "b1f98e51058c7a5b90005aa641a5df5c00027bdca34a5f2c590f39afe93a66f3",
+      "app": true
+    },
+    {
+      "path": "data/짜.json",
+      "bytes": 3614,
+      "sha256": "a7ce4b0f84fe20afee3ca563581eb84c8c1e07eb59c10b43eed5a19e83d5b132",
+      "app": true
+    },
+    {
+      "path": "data/차.json",
+      "bytes": 126137,
+      "sha256": "345260812fc70714a672a3f9ba5845633f8a12a510ea35ea8f3adcd46cac4cb5",
+      "app": true
+    },
+    {
+      "path": "data/카.json",
+      "bytes": 46133,
+      "sha256": "e095198678bedcd23799008c6cd0c1ee0374dc5c3e85aae223d364b305e9a6af",
+      "app": true
+    },
+    {
+      "path": "data/타.json",
+      "bytes": 62666,
+      "sha256": "9f6419aae5b3eeb2497127662f4259a5ab6f54006065a732b44bf643bc67581b",
+      "app": true
+    },
+    {
+      "path": "data/파.json",
+      "bytes": 86417,
+      "sha256": "a05f124f31bea314669c1defe598ce5f17fc024e8cf1cab1b6bd52c1c0a8e05d",
+      "app": true
+    },
+    {
+      "path": "data/하.json",
+      "bytes": 169310,
+      "sha256": "67435c88631be1e39485616a02da42a6949ced1e9a29864b30d85816ea2b2fb5",
+      "app": true
+    }
+  ]
+}
